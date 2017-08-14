@@ -10,17 +10,17 @@ app.get('/', function (req, res) {
 });
 
 app.get('/page-1',function(req ,res) {
-    res.send('page 1 willbe displayed here');
+    res.send('page 1 will be displayed here');
     
 });
 
 app.get('/page-2',function(req ,res) {
-    res.send('page 2 willbe displayed here');
+    res.send('page 2 will be displayed here');
     
 });
 
 app.get('/page-3',function(req ,res) {
-    res.send('page 3 willbe displayed here');
+    res.send('page 3 will be displayed here');
     
 });
 
